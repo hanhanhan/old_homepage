@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: hanhanhan
-email: han.lazarus@gmail.com
+email: #
 description: Some stuff I've been playing with. Some of my javascript toys may take more processing power than will be fun on your mobile phone.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
